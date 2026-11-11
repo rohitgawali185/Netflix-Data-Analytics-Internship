@@ -1,0 +1,96 @@
+
+============================================================
+        NETFLIX COUNTRY-WISE BUSINESS INSIGHTS REPORT
+============================================================
+
+PROJECT: Country-Wise Netflix Content Analysis
+INTERNSHIP: Auspify Technologies
+TOOLS: Python, Pandas, Matplotlib, Seaborn
+
+------------------------------------------------------------
+1. DATASET OVERVIEW
+------------------------------------------------------------
+
+Original Netflix Records: 8790
+Total Countries Analyzed: 85
+Total Country-Title Records: 8503
+
+------------------------------------------------------------
+2. KEY PERFORMANCE FINDINGS
+------------------------------------------------------------
+
+Top Content Producing Country:
+United States
+
+Total Content Records:
+3240
+
+Country with Highest Movie Count:
+United States
+
+Movie Count:
+2395
+
+Country with Highest TV Show Count:
+United States
+
+TV Show Count:
+845
+
+------------------------------------------------------------
+3. CONTENT DISTRIBUTION
+------------------------------------------------------------
+
+Total Movie Country-Title Records: 5869
+Total TV Show Country-Title Records: 2634
+
+------------------------------------------------------------
+4. TOP 10 COUNTRIES RANKING
+------------------------------------------------------------
+
+ rank        country  total_content  movie_count  tv_show_count
+    1  United States           3240         2395            845
+    2          India           1057          976             81
+    3 United Kingdom            638          387            251
+    4       Pakistan            421           71            350
+    5         Canada            271          187             84
+    6          Japan            259           87            172
+    7    South Korea            214           49            165
+    8         France            213          148             65
+    9          Spain            182          129             53
+   10         Mexico            138           90             48
+
+------------------------------------------------------------
+5. BUSINESS INSIGHTS
+------------------------------------------------------------
+
+1. United States has the highest
+   country-wise Netflix content count.
+
+2. United States has the highest
+   movie count among the analyzed countries.
+
+3. United States has the highest
+   TV Show count among the analyzed countries.
+
+4. Country-wise analysis helps identify content
+   distribution patterns across different markets.
+
+5. These findings can support content planning
+   and regional market analysis.
+
+------------------------------------------------------------
+6. CONCLUSION
+------------------------------------------------------------
+
+The analysis identifies country-wise Netflix content
+distribution and highlights the leading countries
+based on Movies and TV Shows.
+
+Python Pandas was used for data cleaning, aggregation,
+and ranking, while Matplotlib and Seaborn were used
+for data visualization.
+
+============================================================
+                END OF REPORT
+============================================================
