@@ -1,0 +1,67 @@
+
+============================================================
+       NETFLIX RELEASE YEAR TREND ANALYSIS
+              BUSINESS INSIGHTS REPORT
+============================================================
+
+1. PROJECT OVERVIEW
+------------------------------------------------------------
+Project: Netflix Release Year Trend Analysis
+Dataset: Netflix Cleaned Dataset
+Total Records: 8790
+Total Movies: 6126
+Total TV Shows: 2664
+Years Analyzed: 74
+
+2. KEY FINDINGS
+------------------------------------------------------------
+Highest Content Release Year:
+Year: 2018
+Total Content: 1146
+
+Highest Year-over-Year Growth:
+Year: 2016
+Growth: 62.34%
+
+Highest Year-over-Year Decline:
+Year: 2021
+Change: -37.88%
+
+3. CONTENT TYPE INSIGHTS
+------------------------------------------------------------
+Total Movies: 6126
+Total TV Shows: 2664
+
+Movies represent the larger share of the dataset.
+TV Shows also show substantial growth in recent
+release years within the available dataset.
+
+4. BUSINESS INSIGHTS
+------------------------------------------------------------
+1. Content releases increased significantly over
+   several years, reaching a peak in 2018.
+
+2. The number of titles by original release year
+   declined after 2018 in this dataset.
+
+3. Movies account for a larger share of the total
+   Netflix catalog than TV Shows.
+
+4. TV Show releases increased in the later years
+   compared with earlier years.
+
+5. These patterns can help understand the historical
+   composition of the Netflix content catalog.
+
+5. CONCLUSION
+------------------------------------------------------------
+The analysis identifies release-year patterns,
+yearly content changes, and differences between
+Movies and TV Shows.
+
+Note: Release year represents the original year
+of content release, not the date Netflix added it.
+
+============================================================
+                 END OF REPORT
+============================================================
