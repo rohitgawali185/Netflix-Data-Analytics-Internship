@@ -1,0 +1,46 @@
+======================================================================
+           NETFLIX BUSINESS INSIGHTS REPORT
+======================================================================
+
+1. EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+Total Netflix Titles Analyzed: 8790
+Movies: 6126 (69.69%)
+TV Shows: 2664 (30.31%)
+
+2. KEY BUSINESS INSIGHTS
+----------------------------------------------------------------------
+1. CONTENT DISTRIBUTION: Movies represent 69.69% of the total catalog, while TV Shows represent 30.31%.
+
+2. COUNTRY PERFORMANCE: United States has the highest number of country-associated content records (3240).
+
+3. GENRE PERFORMANCE: International Movies is the most frequently listed genre with 2752 entries.
+
+4. RELEASE YEAR TREND: 2018 is the peak release year in the dataset, with 1146 titles.
+
+5. CONTENT RATINGS: TV-MA is the most common rating, representing 36.46% of all titles.
+
+6. DIRECTOR PERFORMANCE: Rajiv Chilaka has the highest number of directed titles in this dataset (20).
+
+3. BUSINESS RECOMMENDATIONS
+----------------------------------------------------------------------
+1. Maintain a balanced content portfolio by monitoring both Movies and TV Shows.
+
+2. Study country-wise content performance to identify opportunities for regional content expansion.
+
+3. Analyze popular genres to guide future content planning.
+
+4. Monitor release-year patterns to understand historical content trends.
+
+5. Review rating distribution to understand the catalog's content classification mix.
+
+6. Track director contributions to identify recurring creative partnerships.
+
+4. DATA QUALITY
+----------------------------------------------------------------------
+Missing Values: 0
+Duplicate Records: 0
+
+======================================================================
+              END OF BUSINESS INSIGHTS REPORT
+======================================================================
